@@ -3,7 +3,7 @@ Bird Articles Website Summary  (Users perspective)
 
 BY: NARJIS P
 
-This website is about birds like cockatiels, parakeets, and lovebirds. The website has articles that tell basic information about each bird. It is made for people who want to learn about these types of birds or are thinking about getting one.
+This website is about birds like cockatiels, and parakeets. The website has articles that tell basic information about each bird. It is made for people who want to learn about these types of birds or are thinking about getting one.
 
 Bird Articles Website Summary (Developer’s Perspective)
 
